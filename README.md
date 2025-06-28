@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Student developer <br>Switzerland <3<br>Here to learn by helping others <br>+ | Web technologies <br>- | Vim hater<br><br>
 
